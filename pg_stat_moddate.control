@@ -1,0 +1,4 @@
+comment = 'pg_stat_moddate: an extension for saving main information about last updating of database objects'
+default_version = '1.0'
+module_pathname = '$libdir/pg_stat_moddates'
+relocatable = false
